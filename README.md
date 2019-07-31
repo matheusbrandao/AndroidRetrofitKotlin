@@ -7,4 +7,4 @@ Este repositório tem o objetivo de prover um projeto base para uso do Retrofit 
 - CardView;
 
 
-Obs: faz uso de uma API externa. 
+Obs: faz uso de uma API externa. Ver na pasta docs. 
